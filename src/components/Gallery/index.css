@@ -1,0 +1,42 @@
+/* Write your code here. */
+body {
+  margin: 0px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.gallery-page-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.nature-container {
+  width: 100%;
+}
+
+.nature-item {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #1e293b;
+}
+
+.photographer {
+  font-size: 20px;
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.nature-items-container {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  padding: 0px;
+}

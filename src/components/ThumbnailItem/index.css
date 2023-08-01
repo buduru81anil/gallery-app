@@ -1,0 +1,14 @@
+/* Write your code here. */
+
+.nature-list-item {
+  margin-left: 0px;
+  margin-right: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.thumbnail-item {
+  height: 90px;
+  width: 90px;
+  border-radius: 8px;
+}
